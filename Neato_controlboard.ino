@@ -188,7 +188,7 @@ void readData(unsigned char inByte){
       }else{
         distance_array[angleIndex]=0;
       }
-  if (dataIndex==3 && Data_4deg_index==89) drawMap();
+  //if (dataIndex==3 && Data_4deg_index==89) drawMap();
 
    }
    break;
